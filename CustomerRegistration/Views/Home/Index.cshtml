@@ -1,0 +1,158 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = null;
+}
+
+<link rel="stylesheet" href="/css/bootstrap.min.css">
+<!-- //bootstrap-css -->
+<!-- Custom CSS -->
+<link href="/css/CustomStyle.css" rel='stylesheet' type='text/css' />
+
+<container>
+    <section class="vh-100">
+        <div class="container-fluid h-custom">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="log-w3">
+                    <div class="w3layouts-main">
+                        <h2>Sign In Now</h2>
+                        <form>
+                            <input type="text" id="txtCustomerMobile" class="ggg" name="Email" placeholder="MOBILE NUMBER" required="" maxlength="10" autocomplete="off">
+                            <span class="text-warning errCustMob"></span>
+                            <input type="password" id="txtCustomerPassword" class="ggg" name="Password" placeholder="PASSWORD" required="" maxlength="15" autocomplete="off">
+                            <span class="text-warning errCustPassword"></span>
+                            <br />
+                            <span><input type="checkbox" />Remember Me</span>
+                            <h6><a href="#">Forgot Password?</a></h6>
+                            <div class="clearfix"></div>
+                            <center>
+                                <button type="button" id="btnLogin" class="btn btn-light btn-lg custombutton">
+                                    Login
+                                </button>
+                            </center>
+                        </form>
+                        <p>Don't Have an Account ?<a href="/Home/NewUserRegistation">Create an account</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</container>
+@*<style>
+    .divider:after,
+    .divider:before {
+        content: "";
+        flex: 1;
+        height: 1px;
+        background: #eee;
+    }
+
+    .h-custom {
+        height: calc(100% - 73px);
+    }
+</style>*@
+<script src="~/js/site.js"></script>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnLogin").click(function () {
+            var chkValidation = Validation();
+            if (chkValidation == true) {
+                $.ajax({
+                    type: "post",
+                    url: "/Home/UserLogin",
+                    data: {
+                        id: $("#txtCustomerMobile").val()
+                        , password: $("#txtCustomerPassword").val()
+                    },
+                    datatype: "json",
+                    traditional: true,
+                    success: function (data) {
+                        if (data == 1) {
+                            window.location.href = '/Home/CustomerLogin/';
+                        }
+                        else if (data == 2) {
+                            alert("Invalid Credential");
+                        }
+                    }
+                });
+
+            }
+        });
+    });
+
+
+    $("#txtCustomerMobile").keyup(function (e) {
+        var CustomerPhone = $("#txtCustomerMobile").val();
+        if (CustomerPhone == '') {
+            $('.errCustMob').text('Please enter Mobile Number');
+            return false;
+        }
+        else {
+            if (CustomerPhone.length < 10) {
+                //alert('your message');
+                $('.errCustMob').text("Please enter 10 digit number");
+                return false;
+            }
+            else {
+                $('.errCustMob').text("");
+                return true;
+            }
+            return true;
+        }
+    });
+    $('#txtCustomerMobile').keypress(function (e) {
+
+        var charCode = (e.which) ? e.which : event.keyCode
+
+        if (String.fromCharCode(charCode).match(/[^0-9]/g))
+
+            return false;
+    });
+    $("#txtCustomerPassword").keyup(function (e) {
+        var CustomerPassword = $("#txtCustomerPassword").val();
+        if (CustomerPassword == '') {
+            $('.errCustPassword').text('Please enter password');
+            return false;
+        }
+        else {
+            if (CustomerPassword.length < 5) {
+                $('.errCustPassword').text("Password should be between 8 to 15 character");
+                return false;
+            }
+            else {
+                $('.errCustPassword').text("");
+                return true;
+            }
+        }
+    });
+
+    function Validation() {
+        var chk = 0;
+        var CustomerPhone = $("#txtCustomerMobile").val();
+        var CustomerPassword = $("#txtCustomerPassword").val();
+        if (CustomerPhone != '' && CustomerPhone.length == 10) {
+            $('.errCustMob').text();
+            chk = 1;
+            if (CustomerPassword != '' && CustomerPassword.length >= 8) {
+                $('.errCustPassword').text();
+                chk = 1;
+                if (chk == 1) {
+                    return true
+                }
+                else {
+                    return false;
+                }
+            }
+            else {
+                $('.errCustPassword').text('Please enter password more than 8 character');
+                chk = 0;
+            }
+
+        }
+        else {
+            $('.errCustMob').text('Please enter 10 digits Mobile Number');
+            chk = 0;
+        }
+    }
+</script>

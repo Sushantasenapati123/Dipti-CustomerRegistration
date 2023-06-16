@@ -1,0 +1,164 @@
+﻿
+@{
+    ViewData["Title"] = "UserProfile";
+    Layout = "~/Views/Shared/DashboardLayout.cshtml";
+}
+<section id="main-content">
+    <section class="wrapper">
+       
+        <div class="form-group row">
+             <h3>Profile Details</h3>
+            <div class="col-12 col-md-4 col-xl-4">
+                <input id="txtCustomerID" hidden class="ggg" placeholder="ID" required="" />
+                <div>
+                    <label class="">Customer Code:</label>
+                    <input id="txtCustomerCode" class="customDropdownArea txtCustomerCode" placeholder="CUSTOMER CODE" required="" maxlength="15" autocomplete="off" />
+                </div>
+                
+                <span class=" errCustCode text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">Name:</label>
+                <input id="txtCustomerName" class="form-control ggg txtCustomerName" placeholder="CUSTOMER NAME" required="" autocomplete="off" maxlength="25" />
+                <span class="errCustName text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">Mobile No:</label>
+                <input id="txtCustomerMobile" class="form-control ggg txtMobileNumber" placeholder="CUSTOMER MOBILE" required="" autocomplete="off" maxlength="10" />
+                <span class="errCustMob text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">E-Mail:</label>
+                <input id="txtemail" class="form-control customDropdownArea txtCustomerEmail" placeholder="CUSTOMER EMAIL" required="" autocomplete="off" />
+                <span class=" errCustEmail text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">State:</label>
+                <select asp="ddlStateId" id="ddlStateId" class="form-control ddlState customDropdownArea ">
+                </select>
+                <span class="errState text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">District:</label>
+                <select asp="ddlDistrictId" id="ddlDistrictId" class="form-control customDropdownArea ddlDistrict">
+                    <option value="0">---Select---</option>
+                </select>
+                <span class="errDistrict text-danger"></span>
+            </div>
+        </div>
+        <div class="form-group row">
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">City:</label>
+                <input id="txtcity" class="ggg txtCustCity" placeholder="CUSTOMER CITY" required="" autocomplete="off" />
+                <span class="errCustCity text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">Pincode:</label>
+                <input id="txtpincode" class="ggg txtCustPin" placeholder="PINCODE" required="" maxlength="6" autocomplete="off" />
+                <span class="errCustPin text-danger"></span>
+            </div>
+            <div class="col-12 col-md-4 col-xl-4">
+                <label class="">Gender:</label>
+                <div class="customGenArea">
+                    <input type="radio" id="custgen" name="custgen" class="s_type" value="Male" />
+                    <label for="custgen">MALE</label>
+                    <input type="radio" id="custgen" name="custgen" class="s_type" value="Female" />
+                    <label for="custgen">FEMALE</label>
+                    <span class="errCustGen text-danger"></span>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>
+
+@*<section id="main-content">
+    <section class="wrapper">
+
+        <h2>User Details</h2>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <input id="txtCustomerID" hidden class="ggg" placeholder="ID" required="" />
+                    <input id="txtCustomerCode" class="ggg txtCustomerCode" placeholder="CUSTOMER CODE" required="" maxlength="15" autocomplete="off" />
+                    <span class=" errCustCode text-danger"></span>
+                </div>
+                <div class="col">
+                    <input id="txtCustomerName" class="ggg txtCustomerName" placeholder="CUSTOMER NAME" required="" autocomplete="off" maxlength="25" />
+                    <span class="errCustName text-danger"></span>
+                </div>
+                <div class="col">
+                    <input id="txtCustomerMobile" class="ggg txtMobileNumber" placeholder="CUSTOMER MOBILE" required="" autocomplete="off" maxlength="10" />
+                    <span class="errCustMob text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <input id="txtemail" class="ggg txtCustomerEmail" placeholder="CUSTOMER EMAIL" required="" autocomplete="off" />
+                    <span class=" errCustEmail text-danger"></span>
+                </div>
+                <div class="col">
+                    <input id="txtCustomerPassword" class="ggg txtCustomerPassword" placeholder="CUSTOMER PASSWORD" required="" autocomplete="off" />
+                    <span class="errCustPassword text-danger"></span>
+                </div>
+                <div class="col">
+                    <input id="txtConfCustomerPassword" class="ggg txtConfCustomerPassword" placeholder="CONFIRM PASSWORD" required="" autocomplete="off" />
+                    <span class="errConfCustPassword text-danger "></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <select asp="ddlStateId" id="ddlStateId" class="ddlState customDropdownArea ">
+                    </select>
+                    <span class="errState text-danger"></span>
+                </div>
+                <div class="col">
+                    <select asp="ddlDistrictId" id="ddlDistrictId" class="customDropdownArea ddlDistrict">
+                        <option value="0">---Select---</option>
+                    </select>
+                    <span class="errDistrict text-danger"></span>
+                </div>
+                <div class="col">
+                    <input id="txtcity" class="ggg txtCustCity" placeholder="CUSTOMER CITY" required="" autocomplete="off" />
+                    <span class="errCustCity text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <input id="txtpincode" class="ggg txtCustPin" placeholder="PINCODE" required="" maxlength="6" autocomplete="off" />
+                    <span class="errCustPin text-danger"></span>
+                </div>
+                <div class="col ">
+                    <div class="customGenArea">
+                        <input type="radio" id="custgen" name="custgen" class="s_type" value="Male" />
+                        <label for="custgen">MALE</label>
+                        <input type="radio" id="custgen" name="custgen" class="s_type" value="Female" />
+                        <label for="custgen">FEMALE</label>
+                        <span class="errCustGen text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <textarea id="txtadd" class="form-control customTxtArea" placeholder="CUSTOMER ADDRESS" autocomplete="off" maxlength="1000" required=""></textarea>
+                    <span id="addChars">
+                        1000
+                    </span><span> Character(s) Remaining</span> <br />
+                    <span class="errCustAdd text-danger"></span>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col ">
+                    <input type="button" id="Save" value="Save" class="custombutton btnSaveUpdate" />
+                    <input type="button" id="Update" value="Update" class="custombutton btnSaveUpdate" />
+                </div>
+                <div class="col">
+                    <button id="Reset" class="custombutton">Reset</button>
+                </div>
+            </div>
+            <p>Already Registered.<a href="/Home/Index">Login</a></p>
+        </div>
+
+    </section>
+</section>*@

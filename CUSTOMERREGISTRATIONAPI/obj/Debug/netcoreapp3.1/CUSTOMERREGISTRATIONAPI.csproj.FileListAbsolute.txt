@@ -1,0 +1,90 @@
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.exe
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.deps.json
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.runtimeconfig.json
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.runtimeconfig.dev.json
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.pdb
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.AssemblyReference.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.AssemblyInfoInputs.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.AssemblyInfo.cs
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.CoreCompileInputs.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\staticwebassets\CUSTOMERREGISTRATIONAPI.StaticWebAssets.Manifest.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\staticwebassets\CUSTOMERREGISTRATIONAPI.StaticWebAssets.xml
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CUSTOMERREGISTRATIONAPI.styles.css
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.RazorTargetAssemblyInfo.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.CopyComplete
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.pdb
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.genruntimeconfig.cache
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\diptimayee.d\source\repos\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.exe
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.deps.json
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.runtimeconfig.json
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.runtimeconfig.dev.json
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.pdb
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.AssemblyReference.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.AssemblyInfoInputs.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.AssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.CoreCompileInputs.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\staticwebassets\CUSTOMERREGISTRATIONAPI.StaticWebAssets.Manifest.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\staticwebassets\CUSTOMERREGISTRATIONAPI.StaticWebAssets.xml
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\CUSTOMERREGISTRATIONAPI.styles.css
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.RazorTargetAssemblyInfo.cache
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.csproj.CopyComplete
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.dll
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.pdb
+C:\Users\sushanta.senapati\Desktop\Dipti\CUSTOMERREGISTRATIONAPI (2)\CUSTOMERREGISTRATIONAPI\CUSTOMERREGISTRATIONAPI\obj\Debug\netcoreapp3.1\CUSTOMERREGISTRATIONAPI.genruntimeconfig.cache
